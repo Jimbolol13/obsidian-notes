@@ -1,0 +1,42 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": " ",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": " ",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "global-search:open"
+    },
+    {
+      "sequence": [
+        {
+          "key": " ",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "e",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "file-explorer:open"
+    }
+  ]
+}

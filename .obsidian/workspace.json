@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "ff593f0cee42cafc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd282bf46823090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d9a8aecf50c2df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mental health/gedachtes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gedachtes"
+            }
+          },
+          {
+            "id": "0326bf99fca7dcb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "motor theorie notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "motor theorie notes"
+            }
+          },
+          {
+            "id": "b17c5a141735074e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unanswered questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unanswered questions"
+            }
+          },
+          {
+            "id": "8edcb1caeffb38b1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bfc2e984b7a7cd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Personal/Microdosing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microdosing"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47b9efb09c459595",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a86f50b812670df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e8a46039d513e5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8f11e35d5e26e10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47e0b299b81d6f91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "4ac659ead6e83e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a0c78186c19a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463d7c1392c1f942",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mental health/gedachtes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for gedachtes"
+            }
+          },
+          {
+            "id": "06721412b90738b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "motor theorie notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from motor theorie notes"
+            }
+          },
+          {
+            "id": "4dabdd280ff54215",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "930bcc3acb011291",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "motor theorie notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of motor theorie notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bfc2e984b7a7cd30",
+  "lastOpenFiles": [
+    "mental health/detailed thoughts/altijd maar bezig zijn.md",
+    "mental health/gedachtes.md~",
+    "test.md~",
+    "test.md",
+    "mental health/gedachtes.md",
+    "mental health/detailed thoughts/Verdien ik iets.md",
+    "Untitled.base",
+    "unanswered questions.md",
+    "motor theorie notes.md",
+    "Untitled 1.base",
+    "mental health/detailed thoughts/Wat is in mijn controle.md",
+    "mental health/detailed thoughts/Hoe de 20 jaar aan voelt.md",
+    "mental health/me zelf verbeteren.md",
+    "the matrix.md",
+    "test note.md",
+    "never note.md",
+    "mental health/detailed thoughts",
+    "Untitled 1.md",
+    "mental health",
+    "2023-07-25.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

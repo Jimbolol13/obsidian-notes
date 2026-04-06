@@ -1,0 +1,3 @@
+*Wat is in mijn controle dan? En wat niet?
+De manier hoe je reageert op situaties is volledig in jou controle, niemand kan iets aan jou reactie doen alleen jij zelf.
+Wat er om je heen gebeurt is niet jou bezigheid. Dingen gebeuren en je kan er nix aan doen, tijdverspilling om daar over na te denken of het te proberen te controleren. Focus op de manier hoe je reageert op situaties dat is het enige wat je ja jij alleen kan controleren, de rest is niet in je control.*
