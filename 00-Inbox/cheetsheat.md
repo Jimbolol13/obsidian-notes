@@ -32,3 +32,8 @@ space n = seachr all notes
 # window
 
 ctrl w + v = split window verticaly
+
+# terminal
+
+ctrl \ = minimize/open terminal
+ctrl ck = kill aplication --- this is a temporary keybind (fix later)
