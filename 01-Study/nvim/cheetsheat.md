@@ -1,8 +1,9 @@
 cd C:\xampp\htdocs
+cd C:\Users\Jimbo\phpLearning
 
 cd $env:LOCALAPPDATA\nvim
 
-higlight all code :s/^/-- /
+coment/higlight all code :s/^/-- /
 
 mini cheetsheet = g?
 
@@ -15,13 +16,16 @@ nvim
 
 ---
 
+LSP only works correct in opened root file
+when spliting windows make shure the one youre editing is the root
+
 # doc
 
 K = hover documentation
 
 space fD = search understanding
 space sD = example doc
-space gD = search selected word in doc
+space gD = search selected word in doc // uncomented
 
 # seach
 
