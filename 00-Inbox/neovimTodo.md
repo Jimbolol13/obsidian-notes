@@ -1,3 +1,9 @@
+---
+id: neovimTodo
+aliases: []
+tags: []
+---
+
 a list of things to inprove at my neovim config
 
 # urgent
@@ -12,3 +18,4 @@ a list of things to inprove at my neovim config
 
 1. implemetn chatGPT to my neovim config
 2. explore more with obsideon
+3. add focus mode/zenn, so my Nvim is in the middle of my screen instead of the top left
